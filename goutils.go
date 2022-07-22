@@ -14,6 +14,6 @@ func NumberToWord(a int) string {
 	if a >= 0 && a < 10 {
 		return numbers[a]
 	} else {
-		return "Bu son 1 va 10 oralig'ida emas!"
+		return "Bu son 1 va 10 oralig'ida emas! "
 	}
 }
