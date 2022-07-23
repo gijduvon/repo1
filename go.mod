@@ -1,3 +1,3 @@
-module github.com/gkamolov/goutils v1.0.0
+module github.com/gkamolov/goutils
 
 go 1.18
