@@ -9,6 +9,8 @@ func Getmax(a int, b int) int {
 	}
 }
 
+//  this is another commit
+
 func NumberToWord(a int) string {
 	var numbers = []string{"nol", "bir", "ikki", "uch", "tort", "besh", "olti", "yetti", "sakkiz", "tuqqiz"}
 
