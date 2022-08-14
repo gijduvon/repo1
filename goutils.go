@@ -1,5 +1,6 @@
 package goutils
 
+// Function to get max of two integers
 func Getmax(a int, b int) int {
 	if a > b {
 		return a
